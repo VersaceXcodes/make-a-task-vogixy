@@ -1,0 +1,12 @@
+{
+  "name": "make-a-task-vogixy",
+  "version": "1.0.0",
+  "description": "Generated project for make-a-task-vogixy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
